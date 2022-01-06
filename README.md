@@ -1,5 +1,6 @@
 ## Olá ! Sou o Sérgio Ribeiro
-Atualmente estou no último ano de Ciência da Computação. 
+Atualmente estou no último ano de Ciência da Computação.
+</br> 
 Formado em Desenvolvimento de sistemas pela SerraTec.
 
 
@@ -20,9 +21,9 @@ Você pode me encontrar nos seguintes lugares:
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80px"/>
 		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="80px"/>
 </div>
+</br></br>
 
-
-![Sérgio Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioMRibeiro&show_icons=true&theme=tokyonight)
+<!---![Sérgio Ribeiro GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioMRibeiro&show_icons=true&theme=tokyonight)--->
 
 
 
