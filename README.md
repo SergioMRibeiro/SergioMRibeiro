@@ -1,5 +1,5 @@
 ## Olá ! Sou o Sérgio Ribeiro
-Atualmente estou no último ano de Ciência da Computação.
+Bacharel em Ciência da Computação.
 </br> 
 Formado em Desenvolvimento de sistemas pela SerraTec.
 
