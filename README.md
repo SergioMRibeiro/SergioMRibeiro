@@ -6,7 +6,7 @@ Formado em Desenvolvimento de sistemas pela SerraTec.
 
 Você pode me encontrar nos seguintes lugares:
 
-[![`LinkedIn`](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9rgio-m-ribeiro-19y06m/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sergio_tere@hotmail.com)
+[![`LinkedIn`](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-m-ribeiro-19y06m/) [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:sergio_tere@hotmail.com)
 
 ### As tecnologias que eu mais gosto são:
 
